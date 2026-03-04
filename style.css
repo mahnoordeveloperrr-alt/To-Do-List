@@ -68,7 +68,7 @@ ul li::before{
     height: 30px;
     width: 30px;
     border-radius: 50%;
-    background-image:url(/images/images-removebg-preview.png) ;
+    background-image:url(images/images-removebg-preview.png) ;
     background-position: center;
     background-size: cover;
     /* background-color: aqua; */
@@ -81,7 +81,7 @@ ul li.checked{
     text-decoration: line-through ;
 }
 ul li.checked::before{
-    background-image:url(/images/images__1_-removebg-preview.png) ;
+    background-image:url(images/images__1_-removebg-preview.png) ;
 }
 ul li span{
     position: absolute;
